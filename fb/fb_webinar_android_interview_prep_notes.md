@@ -65,9 +65,12 @@ We expect you to come up with solution better than brute force.
 
 Make sure to implement at least the brute force one instead of wasting time trying to find the optimal. It allows interviewer to assess more if they see you coding a functional solution.
 
-Sample of question:
+Sample Question:
 "move 0s to the end of the array"
+
 sort array -> O(n(log(n)))
+
 two pointer + swap -> O(n)
+
 
 ### Then your questions for the interviewer
